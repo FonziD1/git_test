@@ -1,0 +1,8 @@
+body{
+ height: 100vh;
+ width: auto;
+ 
+}
+.container {
+ max-width: 1024px;
+}
